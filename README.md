@@ -1,2 +1,3 @@
-# rapid-fintech-app-abi9
-Automated issue comment bot repository
+# Rapid Fintech App Abi9
+
+Automated issue comment bot repository.
